@@ -1,7 +1,7 @@
-import performanceImg from 'public/performance.jpg';
+import performanceImg from 'next/performance.jpg';
 import Hero from '@/components/hero';
 
-export default function HomePage() {
+export default function PerformancePage() {
   return (
    
   
