@@ -1,5 +1,5 @@
-export default function PerformancePage() {
-    return <div>Performance Page!</div> 
+export default function ScalePage() {
+    return <div>Scale Page!</div> 
     
     
   }
